@@ -1,0 +1,7 @@
+/Saved
+/Intermediate
+/Build
+/Plugins
+*.sln
+*_BuiltData.uasset
+/게임 실행파일
